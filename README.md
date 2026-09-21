@@ -1,16 +1,11 @@
-# UnitedHacksv5
-MoodCast is a smart Chrome extension that instantly curates personalized entertaining content to let you effortlessly unwind, vibe, or fuel your creativity.
-# MoodCast Idle
+# MoodCast
 
-**MoodCast** is a gamified Chrome extension that turns your everyday browsing into a personalized and engaging experience. It combines productivity tracking with mood-based entertainment, giving you a reason to return and enjoy your time online.
+**MoodCast** is a gamified Chrome extension that turns your everyday browsing into a personalized and engaging experience. It combines productivity tracking with mood-based entertainment, giving you a reason to return and enjoy your time online. It also rewards users with XP (experience points) for simply using their browser. As you gain XP and level up, you unlock new entertainment based on your chosen mood. Whether you're feeling **chill**, **curious**, **chaotic**, or something else, the extension adapts to match your vibe. 
+
 
 ---
 
-## 🌟 What is MoodCast Idle?
-
-MoodCast Idle is a Chrome extension that rewards users with XP (experience points) for simply using their browser. As you gain XP and level up, you unlock new entertainment based on your chosen mood. Whether you're feeling **chill**, **curious**, **chaotic**, or something else, the extension adapts to match your vibe. 
-
-The extension features:
+## Features:
 - A real-time **XP tracker**
 - An **upgrade system** that increases XP gain
 - **Level-based background music** that evolves with your progress
@@ -20,7 +15,7 @@ The extension features:
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 1. **Earn XP Automatically**  
    From the moment you open your browser, you begin earning XP every second. As you purchase upgrades, the XP rate increases exponentially.
@@ -47,7 +42,7 @@ The extension features:
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 ### Installation
 
@@ -68,7 +63,7 @@ The extension features:
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 - **HTML/CSS** – UI and styles
 - **JavaScript** – Game logic, mood handling, XP system
@@ -76,7 +71,7 @@ The extension features:
 
 ---
 
-## 📌 Notes
+## Notes
 
 - XP, level, and mood history are saved automatically.
 - Background music only plays inside the popup window.
@@ -84,7 +79,7 @@ The extension features:
 
 ---
 
-## 🎯 Goals for Future Development
+## Goals for Future Development
 
 - Add more moods and content sources.
 - Introduce AI-based mood detection or smart recommendations.
